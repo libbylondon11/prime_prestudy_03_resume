@@ -1,0 +1,106 @@
+
+html, body, h1, h2, h3, h4 {
+    font-size: 100%;
+}
+
+
+.style img {
+	background:no-repeat;
+	overflow:auto;
+}
+.nav {
+    position: relative;
+	top: 20px;
+	left: 140px; 
+	width:900px;
+	height:300px;
+	border: 2px solid gray;
+	background:#ffffff;
+	border-top-left-radius: 15px;
+	border-top-right-radius: 15px;
+	border-bottom-right-radius: 15px;
+	border-bottom-left-radius: 15px;	
+	
+}
+.nav p {
+    position: relative;
+	left: 290px; 
+}
+.nav a {
+	color: #c14e10;
+	font-size: 14px;
+	font-weight: bold;
+	font-family: 'Shift', sans-serif;  
+	position: relative;
+	left: 208px;
+}
+.nav ul {
+	position: relative;
+	left: 105px;
+}
+
+.container h1{
+
+	font-weight: bold;
+	font-family: 'Shift', sans-serif;
+	font-size:40px;
+	position: relative;
+	top: 20px;
+	left: 318px;
+	text-shadow: 1px 2px 5px #255;
+
+
+}
+.container {
+	font-family:'Shift', sans-serif;
+	display:none;
+     
+}
+.container li {
+	list-style: disc;
+}
+.container h3 {
+	font-family: 'Shift', sans-serif;
+	font-weight: bold; 
+	font-size: 20px;
+	position: relative; 
+	left: 212px; 
+}
+.container img {
+	margin: 10px;
+	float: left;
+    width: 150px;
+    margin-top: -110px;
+    margin-left: 40px;
+    padding:none;
+    position:fixed;
+
+}
+.jumbotron {
+	position: relative;
+	top: 20px;
+	left: 170px; 
+    
+}
+.jumbotron h3 {
+	font-family: 'Shift', sans-serif;
+	font-weight: bold; 
+	font-size: 20px;
+	position: relative;
+	left: 130px;   
+}
+.jumbotron p {
+	font-style: italic;
+	line-height: .6;   
+}
+.learn-more {
+	left: 250px;  	
+}
+.learn-more p {
+     font-style: italic;
+     line-height: .6; 	
+}
+.more p {
+     font-style: italic;
+     line-height: .6; 		
+}
